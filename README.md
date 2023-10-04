@@ -7,7 +7,7 @@
 
 #### 編譯器版本資訊
     使用C++，Code::Blocks 20.03撰寫
-![](https://hackmd.io/_uploads/ry8lcgolT.png)
+![](picture/1.png)
 
 #### 如何操作此程式
 1. 使用可編譯執行C++的環境執行，例如：Code::Blocks、Visual Studio Code，有在Visual Studio Code demo的詳細說明影片，附在繳交的作業中，若影片無法正常播放，可以到我上傳的雲端播放，連結為：https://drive.google.com/drive/folders/1N9tGxxbXfnpN3KV9_c-x6S6OiSsYXUrU?usp=sharing
